@@ -18,5 +18,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "FirebaseIoTApp"
 include(":app")

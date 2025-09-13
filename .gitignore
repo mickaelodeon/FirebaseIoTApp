@@ -1,39 +1,30 @@
-*.iml
-.gradle
+# Android Studio
+.gradle/
 /local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+/.idea/
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
-
-# Additional Android Studio files
-*.log
-*.class
+/build/
+/app/build/
+*.iml
 *.apk
+*.ap_*
 *.dex
-*.ap_
-*.aab
-
-# Keystore files
-*.jks
+*.class
+*.log
 *.keystore
-
-# Generated files
-bin/
-gen/
-out/
-
+*.jks
+*.swp
+*.swo
+*.orig
+*.bak
+*.tmp
+*.lock
+captures/
+output.json
+# Firebase
+/google-services.json
 # OS generated files
 Thumbs.db
-ehthumbs.db
+Desktop.ini
 
-# Proguard
-proguard/
+

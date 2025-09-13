@@ -1,28 +1,30 @@
 {
-  "_comment": "PLACEHOLDER FILE - Replace with your actual google-services.json",
-  "_instructions": [
-    "1. Go to the Firebase Console (https://console.firebase.google.com/)",
-    "2. Create a new project or select an existing one",
-    "3. Add an Android app to your project",
-    "4. Use package name: com.app.firebaseiotapp",
-    "5. Download the google-services.json file",
-    "6. Replace this placeholder file with the downloaded file",
-    "7. Enable Realtime Database in your Firebase project",
-    "8. Set up authentication if needed"
-  ],
   "project_info": {
-    "project_id": "your-project-id",
-    "project_number": "123456789",
-    "firebase_url": "https://your-project-id-default-rtdb.firebaseio.com"
+    "project_number": "1027141217245",
+    "firebase_url": "https://tanksensr-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tanksensr",
+    "storage_bucket": "tanksensr.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123456789:android:abcdef123456",
+        "mobilesdk_app_id": "1:1027141217245:android:fd5f71dd5e572744222434",
         "android_client_info": {
           "package_name": "com.app.firebaseiotapp"
         }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUYwAgwoaj83CXnXcnTc-iwedMx0JJGZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
       }
     }
-  ]
+  ],
+  "configuration_version": "1"
 }
